@@ -1,18 +1,14 @@
 ﻿<Properties StartupConfiguration="{1B99D751-04FC-4290-8B7C-7E57C9226E9E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="QuickBuy.Dominio/Entidades/ItemPedido.cs">
-    <Files>
-      <File FileName="QuickBuy.Dominio/Entidades/Entidade.cs" Line="29" Column="39" />
-      <File FileName="QuickBuy.Dominio/Entidades/Pedido.cs" Line="29" Column="1" />
-      <File FileName="QuickBuy.Dominio/Entidades/ItemPedido.cs" Line="16" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="QuickBuy" expanded="True">
             <Node name="QuickBuy.Dominio" expanded="True">
-              <Node name="Entidades" expanded="True">
-                <Node name="ItemPedido.cs" selected="True" />
+              <Node name="Contratos" expanded="True">
+                <Node name="IBaseRepositorio.cs" selected="True" />
               </Node>
+              <Node name="Entidades" expanded="True" />
               <Node name="Enumerados" expanded="True" />
               <Node name="ObjetoDeValor" expanded="True" />
             </Node>
