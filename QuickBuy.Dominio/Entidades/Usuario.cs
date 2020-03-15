@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace QuickBuy.Dominio.Entidades
 {
-    public class Usuario
+    public class Usuario : Entidade
     {
         public int Id { get; set; }
         public string Email { get; set; }
@@ -16,5 +16,11 @@ namespace QuickBuy.Dominio.Entidades
         public Usuario()
         {
         }
+
+        public override void Validate()
+        {
+            LimparMensagensValidacao();
+        }
+
     }
 }

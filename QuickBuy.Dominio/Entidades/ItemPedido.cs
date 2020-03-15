@@ -1,7 +1,9 @@
 ﻿using System;
+using QuickBuy.Dominio.Entidades;
+
 namespace QuickBuy.Dominio
 {
-    public class ItemPedido
+    public class ItemPedido : Entidade
     {
         public int Id { get; set; }
         public int ProdutoId { get; set; }
@@ -9,6 +11,11 @@ namespace QuickBuy.Dominio
 
         public ItemPedido()
         {
+        }
+
+        public override void Validate()
+        {
+            LimparMensagensValidacao();
         }
     }
 }
