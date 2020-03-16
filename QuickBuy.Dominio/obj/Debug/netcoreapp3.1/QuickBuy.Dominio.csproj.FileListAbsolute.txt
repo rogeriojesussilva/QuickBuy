@@ -1,6 +1,7 @@
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Dominio/bin/Debug/netcoreapp3.1/QuickBuy.Dominio.deps.json
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Dominio/bin/Debug/netcoreapp3.1/QuickBuy.Dominio.dll
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Dominio/bin/Debug/netcoreapp3.1/QuickBuy.Dominio.pdb
+/Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Dominio/obj/Debug/netcoreapp3.1/QuickBuy.Dominio.csprojAssemblyReference.cache
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Dominio/obj/Debug/netcoreapp3.1/QuickBuy.Dominio.AssemblyInfoInputs.cache
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Dominio/obj/Debug/netcoreapp3.1/QuickBuy.Dominio.AssemblyInfo.cs
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Dominio/obj/Debug/netcoreapp3.1/QuickBuy.Dominio.dll

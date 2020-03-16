@@ -1,7 +1,11 @@
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/bin/Debug/netcoreapp3.1/QuickBuy.Repositorio.deps.json
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/bin/Debug/netcoreapp3.1/QuickBuy.Repositorio.dll
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/bin/Debug/netcoreapp3.1/QuickBuy.Repositorio.pdb
+/Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/bin/Debug/netcoreapp3.1/QuickBuy.Dominio.dll
+/Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/bin/Debug/netcoreapp3.1/QuickBuy.Dominio.pdb
+/Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/obj/Debug/netcoreapp3.1/QuickBuy.Repositorio.csprojAssemblyReference.cache
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/obj/Debug/netcoreapp3.1/QuickBuy.Repositorio.AssemblyInfoInputs.cache
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/obj/Debug/netcoreapp3.1/QuickBuy.Repositorio.AssemblyInfo.cs
+/Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/obj/Debug/netcoreapp3.1/QuickBuy.Repositorio.csproj.CopyComplete
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/obj/Debug/netcoreapp3.1/QuickBuy.Repositorio.dll
 /Users/rogerio/GoogleDrive/estudo/DotNet Core/workspace/QuickBy/QuickBuy.Repositorio/obj/Debug/netcoreapp3.1/QuickBuy.Repositorio.pdb
